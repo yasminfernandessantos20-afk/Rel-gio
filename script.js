@@ -21,7 +21,7 @@ function carregar(){
     }
     else if(hora >= 12 && hora <18){
         img.src = 'tarde.png'
-        document.body.style.background ='#90e0ef'
+        document.body.style.background ='#a9def9'
     }
     else{
         img.src = 'noite.png'
